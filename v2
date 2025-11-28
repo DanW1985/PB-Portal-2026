@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit of full working package"
+git branch -M main
+git remote add origin https://github.com/danw1985/pb-portal-2026.git
+git push -u origin main

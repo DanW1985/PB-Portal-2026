@@ -1,5 +1,5 @@
 {
-  "name": "communities-choice-portal",
+  "name": "PB-Portal-2026",
   "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
@@ -18,5 +18,5 @@
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11"
   },
-  "homepage": "https://<your-username>.github.io/communities-choice-portal"
+  "homepage": "danw1985.github.io/PB-Portal-2026"
 }

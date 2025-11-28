@@ -1,22 +1,21 @@
 {
-  "name": "PB-Portal-2026",
-  "version": "1.0.0",
+  "name": "communities'-choice-portal-best-version-incomplete-application-process",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "deploy": "gh-pages -d build"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "chart.js": "^4.0.0"
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0",
-    "typescript": "^4.9.5",
-    "@types/react": "^18.0.28",
-    "@types/react-dom": "^18.0.11"
-  },
-  "homepage": "danw1985.github.io/PB-Portal-2026"
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
 }
